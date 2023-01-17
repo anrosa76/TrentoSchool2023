@@ -36,5 +36,5 @@ b.3) **pRg.f90** - To compute the probability distribution function of the monom
 \
 **On chromosome territories, topological domains, Hi-C, etc...** \
 [13] T Cremer & C Cremer, *Rise, fall and resurrection of chromosome territories: a historical perspective. Part I,II,III*, EUROPEAN JOURNAL OF HISTOCHEMISTRY (2006) - https://www.ejh.it/index.php/ejh/article/view/989/1110 \
-[14] E. Lieberman-Aiden, *Comprehensive Mapping of Long-Range Interactions Reveals Folding Principles of the Human Genome*, Science (2009) - https://doi.org/10.1126/science.1181369 \
+[14] E Lieberman-Aiden, *Comprehensive Mapping of Long-Range Interactions Reveals Folding Principles of the Human Genome*, Science (2009) - https://doi.org/10.1126/science.1181369 \
 [15] JR Dixon, *Topological domains in mammalian genomes identified by analysis of chromatin interactions*, Nature (2012) - http://dx.doi.org/10.1038/nature11082
