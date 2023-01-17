@@ -16,14 +16,24 @@ b.3) **pRg.f90** - To compute the probability distribution function of the monom
 
 **On polymer theory** \
 [1] M Rubinstein & RH Colby, *Polymer Physics* (Oxford Univ Press) \
-[2] SM Bhattacharjee, *Flory theory for polymers*, Journal of Physics: Condensed Matter (2013) - http://stacks.iop.org/0953-8984/25/i=50/a=503101 \
+[2] SM Bhattacharjee et al., *Flory theory for polymers*, Journal of Physics: Condensed Matter (2013) - http://stacks.iop.org/0953-8984/25/i=50/a=503101 \
 [3] Zhen-Gang Wang, *50th Anniversary Perspective: Polymer Conformation - A Pedagogical Review*, Macromolecules (2017) - https://doi.org/10.1021/acs.macromol.7b01518 \
 \
 **On LAMMPS** \
-[1] S Plimpton, *Fast Parallel Algorithms for Short-Range Molecular Dynamics*, Journal of Computational Physics (1995) - https://doi.org/10.1006/jcph.1995.1039 \
+[4] S Plimpton, *Fast Parallel Algorithms for Short-Range Molecular Dynamics*, Journal of Computational Physics (1995) - https://doi.org/10.1006/jcph.1995.1039 \
 \
 **On ring polymers, branched polymers, etc...** \
-[1] M Rubinstein, *Dynamics of Ring Polymers in the Presence of Fixed Obstacles*, Physical Review Letters (1986) - http://link.aps.org/doi/10.1103/PhysRevLett.57.3023 \
-[2] A Rosa, R Everaers, *Ring Polymers in the Melt State: The Physics of Crumpling*, Physical Review Letters (2014) - http://link.aps.org/doi/10.1103/PhysRevLett.112.118302 \
-[3] A Rosa, R Everaers, *Computer simulations of melts of randomly branching polymers*, The Journal of Chemical Physics (2016) - http://scitation.aip.org/content/aip/journal/jcp/145/16/10.1063/1.4965827 \
-[4] R Everaers et al., *Flory theory of randomly branched polymers*, Soft Matter (2017) - http://dx.doi.org/10.1039/C6SM02756C
+[5] M Rubinstein, *Dynamics of Ring Polymers in the Presence of Fixed Obstacles*, Physical Review Letters (1986) - http://link.aps.org/doi/10.1103/PhysRevLett.57.3023 \
+[6] A Rosa, R Everaers, *Ring Polymers in the Melt State: The Physics of Crumpling*, Physical Review Letters (2014) - http://link.aps.org/doi/10.1103/PhysRevLett.112.118302 \
+[7] A Rosa, R Everaers, *Computer simulations of melts of randomly branching polymers*, The Journal of Chemical Physics (2016) - http://scitation.aip.org/content/aip/journal/jcp/145/16/10.1063/1.4965827 \
+[8] R Everaers et al., *Flory theory of randomly branched polymers*, Soft Matter (2017) - http://dx.doi.org/10.1039/C6SM02756C \
+\
+**On topologically-constrained polymers & chromatin organization** \
+[9] A Grosberg et al., *Crumpled Globule Model of the Three-Dimensional Structure of DNA*, EPL (Europhysics Letters) (1993) - http://stacks.iop.org/0295-5075/23/i=5/a=012 \
+[10] A Rosa & R Everaers, *Structure and Dynamics of Interphase Chromosomes*, PLOS Computational Biology (2008) - https://doi.org/10.1371/journal.pcbi.1000153 \
+[11] JD Halverson et al., *From a melt of rings to chromosome territories: the role of topological constraints in genome folding*, Reports on Progress in Physics (2014) - http://stacks.iop.org/0034-4885/77/i=2/a=022601 \
+\
+**On chromosome territories, Hi-C, etc...** \
+[12] T Cremer & C Cremer, *Rise, fall and resurrection of chromosome territories: a historical perspective. Part I,II,III*, EUROPEAN JOURNAL OF HISTOCHEMISTRY (2006) \
+[13] E. Lieberman-Aiden, *Comprehensive Mapping of Long-Range Interactions Reveals Folding Principles of the Human Genome*, Science (2009) - https://doi.org/10.1126/science.1181369 \
+[14]
