@@ -1,6 +1,8 @@
 # TrentoSchool2023
 
-The folder "Tools.tar.gz" contains the following codes (in Fortran90):
+Download the trajectory @: https://www.dropbox.com/s/zdk4l6tszfgyegn/trajectory.tar.gz?dl=0
+
+The folder Tools.tar.gz contains the following codes (in Fortran90):
 
 1) dump2xyz_4VMD.f90 - To generate a file which can be read in VMD and visualize the MD trajectory (starting from LAMMPS files).
 
