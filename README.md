@@ -32,8 +32,9 @@ b.3) **pRg.f90** - To compute the probability distribution function of the monom
 [9] A Grosberg et al., *Crumpled Globule Model of the Three-Dimensional Structure of DNA*, EPL (Europhysics Letters) (1993) - http://stacks.iop.org/0295-5075/23/i=5/a=012 \
 [10] A Rosa & R Everaers, *Structure and Dynamics of Interphase Chromosomes*, PLOS Computational Biology (2008) - https://doi.org/10.1371/journal.pcbi.1000153 \
 [11] JD Halverson et al., *From a melt of rings to chromosome territories: the role of topological constraints in genome folding*, Reports on Progress in Physics (2014) - http://stacks.iop.org/0034-4885/77/i=2/a=022601 \
+[12] LA Mirny, *The fractal globule as a model of chromatin architecture in the cell*, Chromosome Research (2011) - https://doi.org/10.1007/s10577-010-9177-0
 \
-**On chromosome territories, Hi-C, etc...** \
-[12] T Cremer & C Cremer, *Rise, fall and resurrection of chromosome territories: a historical perspective. Part I,II,III*, EUROPEAN JOURNAL OF HISTOCHEMISTRY (2006) \
-[13] E. Lieberman-Aiden, *Comprehensive Mapping of Long-Range Interactions Reveals Folding Principles of the Human Genome*, Science (2009) - https://doi.org/10.1126/science.1181369 \
-[14]
+**On chromosome territories, topological domains, Hi-C, etc...** \
+[13] T Cremer & C Cremer, *Rise, fall and resurrection of chromosome territories: a historical perspective. Part I,II,III*, EUROPEAN JOURNAL OF HISTOCHEMISTRY (2006) - https://www.ejh.it/index.php/ejh/article/view/989/1110 \
+[14] E. Lieberman-Aiden, *Comprehensive Mapping of Long-Range Interactions Reveals Folding Principles of the Human Genome*, Science (2009) - https://doi.org/10.1126/science.1181369 \
+[15] JR Dixon, *Topological domains in mammalian genomes identified by analysis of chromatin interactions*, Nature (2012) - http://dx.doi.org/10.1038/nature11082
