@@ -28,17 +28,17 @@ NOTE: The file **vmdscene.png** features a single snapshot of the trajectory.
 **On ring polymers, branched polymers, etc...** \
 [5] M Rubinstein, *Dynamics of Ring Polymers in the Presence of Fixed Obstacles*, Physical Review Letters (1986) - http://link.aps.org/doi/10.1103/PhysRevLett.57.3023 \
 [6] A Rosa, R Everaers, *Ring Polymers in the Melt State: The Physics of Crumpling*, Physical Review Letters (2014) - http://link.aps.org/doi/10.1103/PhysRevLett.112.118302 \
-[7] A Rosa, R Everaers, *Computer simulations of melts of randomly branching polymers*, The Journal of Chemical Physics (2016) - http://scitation.aip.org/content/aip/journal/jcp/145/16/10.1063/1.4965827 \
-[8] R Everaers et al., *Flory theory of randomly branched polymers*, Soft Matter (2017) - http://dx.doi.org/10.1039/C6SM02756C \
+[7] A Rosa, R Everaers, *Computer Simulations of Melts of Randomly Branching Polymers*, The Journal of Chemical Physics (2016) - http://scitation.aip.org/content/aip/journal/jcp/145/16/10.1063/1.4965827 \
+[8] R Everaers et al., *Flory Theory of Randomly Branched Polymers*, Soft Matter (2017) - http://dx.doi.org/10.1039/C6SM02756C \
 \
 **On topologically-constrained polymers & chromatin organization** \
 [9] A Grosberg et al., *Crumpled Globule Model of the Three-Dimensional Structure of DNA*, EPL (Europhysics Letters) (1993) - http://stacks.iop.org/0295-5075/23/i=5/a=012 \
 [10] A Rosa & R Everaers, *Structure and Dynamics of Interphase Chromosomes*, PLOS Computational Biology (2008) - https://doi.org/10.1371/journal.pcbi.1000153 \
-[11] JD Halverson et al., *From a melt of rings to chromosome territories: the role of topological constraints in genome folding*, Reports on Progress in Physics (2014) - http://stacks.iop.org/0034-4885/77/i=2/a=022601 \
-[12] LA Mirny, *The fractal globule as a model of chromatin architecture in the cell*, Chromosome Research (2011) - https://doi.org/10.1007/s10577-010-9177-0 \
+[11] JD Halverson et al., *From a Melt of Rings to Chromosome Territories: The Role of Topological Constraints in Genome Folding*, Reports on Progress in Physics (2014) - http://stacks.iop.org/0034-4885/77/i=2/a=022601 \
+[12] LA Mirny, *The Fractal Globule as a Model of Chromatin Architecture in the Cell*, Chromosome Research (2011) - https://doi.org/10.1007/s10577-010-9177-0 \
 \
 **On chromosome territories, topological domains, Hi-C, chromatin mechanics, etc...** \
-[13] T Cremer & C Cremer, *Rise, fall and resurrection of chromosome territories: a historical perspective. Part I,II,III*, EUROPEAN JOURNAL OF HISTOCHEMISTRY (2006) - https://www.ejh.it/index.php/ejh/article/view/989/1110 \
+[13] T Cremer & C Cremer, *Rise, Fall and Resurrection of Chromosome Territories: A Historical Perspective. Part I,II,III*, EUROPEAN JOURNAL OF HISTOCHEMISTRY (2006) - https://www.ejh.it/index.php/ejh/article/view/989/1110 \
 [14] E Lieberman-Aiden et al., *Comprehensive Mapping of Long-Range Interactions Reveals Folding Principles of the Human Genome*, Science (2009) - https://doi.org/10.1126/science.1181369 \
-[15] JR Dixon et al., *Topological domains in mammalian genomes identified by analysis of chromatin interactions*, Nature (2012) - http://dx.doi.org/10.1038/nature11082 \
-[16] VIP Keizer et al., *Live-cell micromanipulation of a genomic locus reveals interphase chromatin mechanics*, Science (2022) - https://doi.org/10.1126/science.abi9810
+[15] JR Dixon et al., *Topological Domains in Mammalian Genomes identified by Analysis of Chromatin Interactions*, Nature (2012) - http://dx.doi.org/10.1038/nature11082 \
+[16] VIP Keizer et al., *Live-cell Micromanipulation of a Genomic Locus reveals Interphase Chromatin Mechanics*, Science (2022) - https://doi.org/10.1126/science.abi9810
