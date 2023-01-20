@@ -12,9 +12,8 @@ The folder **Tools.tar.gz** contains the following codes (in Fortran90):
 \
 \
 NOTE: The file **vmdscene.png** features a single snapshot of the trajectory.
-\
-\
-\
+
+
 *Bibliography*
 
 **On polymer theory**
