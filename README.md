@@ -1,7 +1,7 @@
 # TrentoSchool2023
 
 * **(Step 1)** Download the LAMMPS (https://www.lammps.org/) trajectory @: https://www.dropbox.com/s/zdk4l6tszfgyegn/trajectory.tar.gz?dl=0
-* The file contains a long trajectory (500x10^6 time steps) of M=10 bead-spring circular (ring) polymer chains, each chain features N=400 monomers.
+               * The file contains a long trajectory (500x10^6 time steps) of M=10 bead-spring circular (ring) polymer chains, each chain features N=400 monomers.
 
 **(Step 2)** \
 The folder **Tools.tar.gz** contains the following codes (in Fortran90):
