@@ -1,14 +1,14 @@
 # TrentoSchool2023
 
-*(Step 1)* \
-Download the LAMMPS (https://www.lammps.org/) trajectory @: https://www.dropbox.com/s/zdk4l6tszfgyegn/trajectory.tar.gz?dl=0 \
+**(Step 1)**
+* Download the LAMMPS (https://www.lammps.org/) trajectory @: https://www.dropbox.com/s/zdk4l6tszfgyegn/trajectory.tar.gz?dl=0 \
 The file contains a long trajectory (500x10^6 time steps) of M=10 bead-spring circular (ring) polymer chains, each chain features N=400 monomers.
 
-*(Step 2)* \
-The folder **Tools.tar.gz** contains the following codes (in Fortran90): \
-b.1) **dump2xyz_4VMD.f90** - To generate a file which can be read in VMD and visualize the MD trajectory (starting from LAMMPS files). \
-b.2) **g1g2g3.f90** - To compute the time mean-square displacements g1, g2, g3 for the polymer molecules. \
-b.3) **pRg.f90** - To compute the probability distribution function of the monomer spatial distances from the center of mass of the corresponding polymer chains.
+**(Step 2)**
+The folder **Tools.tar.gz** contains the following codes (in Fortran90):
+* **dump2xyz_4VMD.f90** - To generate a file which can be read in VMD and visualize the MD trajectory (starting from LAMMPS files).
+* **g1g2g3.f90** - To compute the time mean-square displacements g1, g2, g3 for the polymer molecules.
+* **pRg.f90** - To compute the probability distribution function of the monomer spatial distances from the center of mass of the corresponding polymer chains.
 \
 \
 NOTE: The file **vmdscene.png** features a single snapshot of the trajectory.
