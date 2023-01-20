@@ -1,7 +1,7 @@
 # TrentoSchool2023
 
 **(1)** \
-Download the LAMMPS (https://www.lammps.org/) trajectory @: https://www.dropbox.com/s/zdk4l6tszfgyegn/trajectory.tar.gz?dl=0
+Download the LAMMPS (https://www.lammps.org/) trajectory @: https://www.dropbox.com/s/zdk4l6tszfgyegn/trajectory.tar.gz?dl=0:
 * The file contains a long trajectory (500x10^6 time steps) of M=10 bead-spring circular (ring) polymer chains, each chain features N=400 monomers.
 
 **(2)** \
@@ -11,7 +11,7 @@ The folder **Tools.tar.gz** contains the following codes (in Fortran90):
 3. **pRg.f90** - To compute the probability distribution function of the monomer spatial distances from the center of mass of the corresponding polymer chains.
 
 **(3)** \
-The file **vmdscene.png** features a single snapshot of the trajectory
+The file **vmdscene.png** features a single snapshot of the trajectory:
 ![This is an image](https://github.com/anrosa76/TrentoSchool2023/blob/main/vmdscene.png)
 
 \
