@@ -38,7 +38,7 @@ NOTE: The file **vmdscene.png** features a single snapshot of the trajectory.
 [12] LA Mirny, *The Fractal Globule as a Model of Chromatin Architecture in the Cell*, Chromosome Research (2011) - https://doi.org/10.1007/s10577-010-9177-0 \
 \
 **On chromosome territories, topological domains, Hi-C, chromatin mechanics, etc...** \
-[13] T Cremer & C Cremer, *Rise, fall and resurrection of chromosome territories: A historical perspective. Part I,II,III*, EUROPEAN JOURNAL OF HISTOCHEMISTRY (2006) - https://www.ejh.it/index.php/ejh/article/view/989/1110 \
+[13] T Cremer & C Cremer, *Rise, fall and resurrection of chromosome territories: A historical perspective. Part I,II,III*, European Journal of Histochemistry (2006) - https://www.ejh.it/index.php/ejh/article/view/989/1110 \
 [14] E Lieberman-Aiden et al., *Comprehensive mapping of long-range interactions reveals folding principles of the human genome*, Science (2009) - https://doi.org/10.1126/science.1181369 \
 [15] JR Dixon et al., *Topological domains in mammalian genomes identified by analysis of chromatin interactions*, Nature (2012) - http://dx.doi.org/10.1038/nature11082 \
-[16] VIP Keizer et al., *Live-cell Micromanipulation of a Genomic Locus reveals Interphase Chromatin Mechanics*, Science (2022) - https://doi.org/10.1126/science.abi9810
+[16] VIP Keizer et al., *Live-cell micromanipulation of a genomic locus reveals interphase chromatin mechanics*, Science (2022) - https://doi.org/10.1126/science.abi9810
