@@ -16,7 +16,7 @@ NOTE: The file **vmdscene.png** features a single snapshot of the trajectory.
 *Bibliography*
 
 **On polymer theory**
-* M Rubinstein & RH Colby, *Polymer physics* (Oxford Univ Press)
+1. M Rubinstein & RH Colby, *Polymer physics* (Oxford Univ Press)
 * SM Bhattacharjee et al., *Flory theory for polymers*, Journal of Physics: Condensed Matter (2013) - http://stacks.iop.org/0953-8984/25/i=50/a=503101 
 * Zhen-Gang Wang, *50th anniversary perspective: polymer conformation - A pedagogical review*, Macromolecules (2017) - https://doi.org/10.1021/acs.macromol.7b01518
 
