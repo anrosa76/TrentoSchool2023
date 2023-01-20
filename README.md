@@ -17,8 +17,8 @@ NOTE: The file **vmdscene.png** features a single snapshot of the trajectory.
 
 **On polymer theory**
 1. M Rubinstein & RH Colby, *Polymer physics* (Oxford Univ Press)
-* SM Bhattacharjee et al., *Flory theory for polymers*, Journal of Physics: Condensed Matter (2013) - http://stacks.iop.org/0953-8984/25/i=50/a=503101 
-* Zhen-Gang Wang, *50th anniversary perspective: polymer conformation - A pedagogical review*, Macromolecules (2017) - https://doi.org/10.1021/acs.macromol.7b01518
+2. SM Bhattacharjee et al., *Flory theory for polymers*, Journal of Physics: Condensed Matter (2013) - http://stacks.iop.org/0953-8984/25/i=50/a=503101 
+3. Zhen-Gang Wang, *50th anniversary perspective: polymer conformation - A pedagogical review*, Macromolecules (2017) - https://doi.org/10.1021/acs.macromol.7b01518
 
 **On LAMMPS**
 * S Plimpton, *Fast parallel algorithms for short-range molecular dynamics*, Journal of Computational Physics (1995) - https://doi.org/10.1006/jcph.1995.1039
