@@ -17,14 +17,14 @@ NOTE: The file **vmdscene.png** features a single snapshot of the trajectory.
 \
 *Bibliography*
 
-**On polymer theory** \
-* M Rubinstein & RH Colby, *Polymer physics* (Oxford Univ Press) \
-[2] SM Bhattacharjee et al., *Flory theory for polymers*, Journal of Physics: Condensed Matter (2013) - http://stacks.iop.org/0953-8984/25/i=50/a=503101 \
-[3] Zhen-Gang Wang, *50th anniversary perspective: polymer conformation - A pedagogical review*, Macromolecules (2017) - https://doi.org/10.1021/acs.macromol.7b01518 \
+**On polymer theory**
+* M Rubinstein & RH Colby, *Polymer physics* (Oxford Univ Press)
+* SM Bhattacharjee et al., *Flory theory for polymers*, Journal of Physics: Condensed Matter (2013) - http://stacks.iop.org/0953-8984/25/i=50/a=503101 
+* Zhen-Gang Wang, *50th anniversary perspective: polymer conformation - A pedagogical review*, Macromolecules (2017) - https://doi.org/10.1021/acs.macromol.7b01518 \
 \
-**On LAMMPS** \
-[4] S Plimpton, *Fast parallel algorithms for short-range molecular dynamics*, Journal of Computational Physics (1995) - https://doi.org/10.1006/jcph.1995.1039 \
-[5] Official website: https://www.lammps.org/ \
+**On LAMMPS**
+* S Plimpton, *Fast parallel algorithms for short-range molecular dynamics*, Journal of Computational Physics (1995) - https://doi.org/10.1006/jcph.1995.1039
+* Official website: https://www.lammps.org/ \
 \
 **On ring polymers, branched polymers, etc...** \
 [5] M Rubinstein, *Dynamics of ring polymers in the presence of fixed obstacles*, Physical Review Letters (1986) - http://link.aps.org/doi/10.1103/PhysRevLett.57.3023 \
