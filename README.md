@@ -10,7 +10,7 @@ The folder **Tools.tar.gz** contains the following codes (in Fortran90):
 2. **g1g2g3.f90** - To compute the time mean-square displacements g1, g2, g3 for the polymer molecules.
 3. **pRg.f90** - To compute the probability distribution function of the monomer spatial distances from the center of mass of the corresponding polymer chains.
 
-NOTE: The file **vmdscene.png** features a single snapshot of the trajectory (https://github.com/anrosa76/TrentoSchool2023/blob/main/vmdscene.png)
+![The file **vmdscene.png** features a single snapshot of the trajectory](https://github.com/anrosa76/TrentoSchool2023/blob/main/vmdscene.png)
 
 \
 *Bibliography*
